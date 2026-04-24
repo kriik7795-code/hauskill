@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hishnik-eng.github.io/sitemap.xml
+Sitemap: https://kriik7795-code.github.io/hauskill/sitemap.xml
